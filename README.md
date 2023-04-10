@@ -26,4 +26,4 @@ npm run dev
 
 Pronto!
 
-Siga as instruções da aula 6.
+Siga as instruções da aula 7.
